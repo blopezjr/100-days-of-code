@@ -5,7 +5,7 @@
 
 **Today's Progress**: Started 100 days of code delibrate practice.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I really struggled with the adding portion of JavaScript. I pushed pasted it so I can keep on going.
 
 **Link to work:** [Calculator App](http://www.example.com)
 
